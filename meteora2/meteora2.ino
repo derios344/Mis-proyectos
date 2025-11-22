@@ -24,7 +24,7 @@ const char* nombreRed = "";
 const char* claveRed = "";   
 
 // ===== OPENWEATHER CONFIG =====
-String claveAPI = "TU_API_KEY";  // Obtener de openweathermap.org
+String claveAPI = "";  // Obtener de openweathermap.org
 String servidor = "http://api.openweathermap.org/data/3.0";
 String idEstacion = "";         // Se genera al registrar
 
@@ -345,3 +345,4 @@ void loop() {
   
   delay(1000); // Pequeña pausa para no saturar
 }
+
