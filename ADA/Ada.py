@@ -1,12 +1,4 @@
 
-"""
- * ADA - Asistente de Voz Simple
- * Un proyecto que hice para practicar reconocimiento de voz
- * Creado por: [Bautista Pereson]
- * Fecha: [5/07/25]
- * Objetivo: Una asistente simple para probar interfaces graficas y reconocimiento de voz
-"""
-
 # -*- coding: utf-8 -*-
 import webbrowser
 import PySimpleGUI as sg
@@ -292,4 +284,5 @@ if __name__ == "__main__":
         print("\nPrograma interrumpido por el usuario")
     except Exception as error_grave:
         print(f"Error grave: {error_grave}")
+
         hablar("Tuve un error grave, necesito reiniciarme")
