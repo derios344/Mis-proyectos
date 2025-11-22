@@ -1,0 +1,22 @@
+Tecnologías: Python, Reconocimiento de Voz, Automatización, Requests, Manejo de Archivos
+
+Descripción:
+ADA es un asistente de voz desarrollado en Python que responde a comandos para realizar búsquedas web, abrir videos en YouTube, crear y organizar archivos, y ejecutar tareas automatizadas. Diseñado para ser intuitivo y funcional, ADA acerca la interacción humano-máquina a un nivel más natural y accesible.
+
+Contribuciones clave:
+
+-Diseño y programación del núcleo del asistente en Python.
+
+-Implementación de reconocimiento de voz para interpretar comandos.
+
+-Automatización de flujos de búsqueda y gestión de archivos.
+
+-Desarrollo de una estructura modular que permite agregar nuevas funcionalidades con facilidad.
+
+Aprendizajes:
+
+-Procesamiento de lenguaje natural y manejo de librerías de voz.
+
+-Automatización de tareas cotidianas mediante scripting.
+
+-Integración de servicios web usando requests y APIs.
