@@ -1,0 +1,22 @@
+Tecnologías: ESP32, DHT22, BMP280, HTTP, OpenWeather API, Servidor Web Local
+
+Descripción:
+Desarrollé Meteora, una estación meteorológica autónoma que captura datos ambientales en tiempo real —temperatura, humedad y presión atmosférica— mediante sensores conectados a un microcontrolador ESP32. Los datos se envían de forma segura a la API de OpenWeather para obtener pronósticos externos, y toda la información se visualiza de manera clara y accesible en una interfaz web alojada localmente en el dispositivo.
+
+Contribuciones clave:
+
+-Integración física y digital de sensores (DHT22 y BMP280) para lograr lecturas estables y precisas.
+
+-Configuración de conexión WiFi y comunicación bidireccional con OpenWeather.
+
+-Procesamiento local de datos y diseño de una interfaz web responsive.
+
+-Optimización del rendimiento del sistema para un funcionamiento continuo y confiable.
+
+Aprendizajes:
+
+-Gestión de APIs REST y envío de datos en formato JSON.
+
+-Creación de servidores web embebidos en dispositivos de bajo consumo.
+
+-Calibración de sensores y mejora de la precisión en condiciones reales.
